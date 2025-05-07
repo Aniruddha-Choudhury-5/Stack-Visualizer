@@ -1,4 +1,4 @@
-#Stack Visualizer
+**#Stack Visualizer**
 A web-based Stack Visualizer built using Python, Flask, and HTML/CSS/JavaScript. This app helps users understand how stack operations work with real-time visual feedback.
 
 🧰 Features
